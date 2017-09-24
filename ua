@@ -1,1 +1,1 @@
-ua_new_local
+ua_new_remote_today
