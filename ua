@@ -1,1 +1,1 @@
-local only
+local and remote
