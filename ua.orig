@@ -1,5 +1,6 @@
+local and remote
 <<<<<<< HEAD
-local only
+local commit 2
 =======
-remote only
->>>>>>> 5f9f9290418bba5ca44cec13b37978c7b60042fa
+commit 2
+>>>>>>> 8f0f5e1b7affa2f7b0d637ee24458109a50d91fd
