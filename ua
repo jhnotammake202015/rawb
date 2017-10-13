@@ -1,1 +1,1 @@
-local and remote
+REMOTE
